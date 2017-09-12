@@ -1,2 +1,3 @@
-# Avash
-:hotel: 'Avash' is a Hostel Management Web Application build with PHP. 
+Hostel-Management-System
+========================
+:hotel: Hostel Management Web Application build with PHP. 
