@@ -1,8 +1,8 @@
 {
-  "title": "Scrolling Nav",
-  "name": "startbootstrap-scrolling-nav",
+  "title": "Hostel-Management-System",
+  "name": "Hostel-Management-System",
   "version": "4.0.0-beta",
-  "description": "A smooth scrolling navigation HTML template built with Bootstrap",
+  "description": "A Hostel Management Web Application build with PHP",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/scrolling-nav",
+  "homepage": "none",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/bksahu/Hostel-Management-System/issues",
+    "email": "batakrishna.sahu@suiit.ac.in"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "HMS",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Batakrishna Sahu (batakrishna.sahu@suiit.ac.in)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git"
+    "url": "https://github.com/bksahu/Hostel-Management-System.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
