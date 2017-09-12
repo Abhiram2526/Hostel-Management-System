@@ -1,3 +1,3 @@
 Hostel Management System
 ========================
-Hostel Management Web Application build with PHP & MySql. 
+:hotel: Hostel Management Web Application build with PHP & MySql. 
